@@ -10,6 +10,7 @@ public class Main {
         BufferedImage image = imageinout.loadImage(System.getProperty("user.dir") + "//data//data.jpg");
         ImageProcessor ip = new ImageProcessor();
         ip.Thresholding(123, image, System.getProperty("user.dir") + "//data//datathresholded.jpg");
+        ip.SobelFiltering(image, System.getProperty("user.dir") + "//data//dataedges.jpg");
     }
 
 }
