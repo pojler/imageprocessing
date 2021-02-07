@@ -1,6 +1,6 @@
 # imageprocessing
 
-It's a simple project to compare c++ and java solutions on two image processing algorithms.
+It's a simple project to compare c++ and java solutions of two image processing algorithms.
 
 To compile c++ solution you will need:
 
