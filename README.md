@@ -8,7 +8,7 @@ CImg library, that you can download from here:
 https://cimg.eu/download.html
 
 put content of the .zip into:
-> \src\com\github\pojler\imageprocessing\lib>
+> \src\com\github\pojler\imageprocessing\lib
 
 and download ImageMagick to enable .jpg files from:
 https://imagemagick.org/script/download.php#windows
