@@ -10,7 +10,7 @@ https://cimg.eu/download.html
 put content of the .zip into:
 > \src\com\github\pojler\imageprocessing\lib
 
-and download ImageMagick to enable .jpg files from:
+download ImageMagick to enable .jpg files from:
 https://imagemagick.org/script/download.php#windows
 
 and you will need c++ compiler, personally recommend g++.
